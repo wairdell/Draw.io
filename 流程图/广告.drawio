@@ -1,1 +1,199 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T04:57:54.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="quri1-MmVc_5GTg8urI0" version="20.2.4" type="github"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFFMMpRh4s13G/viJIBiMby5cgpVZeYm0JAXst9l66wATezV8/V2iRfSUpLibASV8n8N8JAK7nROxfbdk0ltDjhlmVp7xRa3jKf2NudLh1lad4udOQElLQfLFrTEhZ4oTu2FBVkfVusxdS7J51gWZYMjwlqJCt/+UpzbjVdZy24gvOZxk/deTzimeU/JxVZFXy85WkxE3NHIlueNNlhlKy7pjg/QTeVYTQ5tf89Q4XtVuFx5rjHg7Ubi+5wiVVOSAMcZDE4YsbBymKIviJ9/ALFSvuhm/M5/xi6Ub4ZrnO5wVitwWnGZ0XzOiyn0mWF+kj2pBVffIlZX4QpSkrVZSDzC4KTt8chOvrqEtbR9SFAj3jYrr14h0pSMWq3vxY91SRn1tI6vO+kJI+oHle1Ez7gasUlYib+RkjVkRFPivZ74T5BrP+prKzxN3jiuLXjok77zMmc0yrDWvCa0OOI6e4x4vrli9xwG1ZhyqhoAriHJ1te27BYj84XorYAQm7xxoi4LiK+EkYyR46SJjjLuM+ArKP3L0+gu/ho0jykeSblpi1T9ZZTvHTAiV17ZpFup7LjODtQSooExnsEjnwZZCcPSAF74FRbDFSwcj1dYIksrRFqYcS3EXJD/bEu9FQAoEECk6ZyuFFUtGMzEiJivvWOt2FrQPRMVRY9vinFl4920NeX3CT5jsZxmdlXKbiiKRAy2WefM/ysqngh7lNqXPQ/5jSDS+jFSXM1N7IIyGLbTo7hybKKW9JVlWCh/MMu90ZPtgP76hGZJBZFS4QzX/t6tLr8iS0PNHCE8GBQaLE1+bJ26HMoWjTabAgeUmXnZ6/1YZO+vH255+HA+3DwebsR3MBLWG3d3ImhyPLYS0cjlViHTAm1okEbXkydqyDOmLd+TyRh82WJ6PwJPhYPJEHPpYnY/BEjIc/gnbqTa/EvWnZ4eYwHG4eDja/vtKC0DLe3Azq+uaExtgSxdzQCKAxRPGsJtdEFJWIAjxdRHGd8BmFAfYwhP5LHH+ymlxT5glVMk9kDE+sJtcUT4AKT64eT84S5UHQU+XusMzut/f94faeM9j+Yl0ukd7KcnGVEwCdt7+zH4emuK+/UZ8UbdMcErm8myeXyRHVuYmIGo0cUH3LeT1qU2X4ev3YeBbne5wMjomC+ML27jtz3u4Y0cR5z2g9IM/tNX3Ku03loZeO3aaitpdh9O4+Fbs9/vZNc/BUmGA/KMoojbZnzjtEbHl4pZHYEBhFbHAbxPZOhsmoPbtyzJZRysj8ebU8jpCJ729cjldvj9u+Nzqi0eCSI5F9qPY8VJq3WNs1zusLZjHZNCiYlSZGzFnj9A/pCnlmTaOu8CKjdIXstL8yBPqnwgSP56kRdUVwa7riZLx6ugLueazG0xWhfahUHqrt+p2eh+pGXoO8FCXN6k/lNUgb+rpzOzqHVNCuYhqyRC6W1gYVPm80rPC5+DBA4UO7Xnj9oaASUVTeGBGyxwSi2EU2TURReVdR5HQDiCIPrPicgRxpNM4ZBP1ZU71zBjfyjZfgVJiMGt6AG1kKvRilSCtKwKL0AQahKut6FqW9Q8/xUIL2GyvXF31CSA+KPpWP8Yh8ZIDog/ZDJnqIsv3M6CBRgDFEkefx+ehAHl5qHB1EjkmjA3AjmyrCU2EaMVeyYvuJ22bPcvsJYXj/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:34:18.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0R9FPUvRTV-CVtkS0yP0" version="20.2.4" type="github">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="3030" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="77e6c97f196da883-1" value="媒体流程" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-816" y="437" width="280" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-2" value="媒体主界面" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="20" width="280" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-2" source="tChkTuHsVLL2bAbG7b89-1" target="tChkTuHsVLL2bAbG7b89-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-1" value="showVoiceAd" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="73.75" y="40" width="102.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="tChkTuHsVLL2bAbG7b89-2" target="tChkTuHsVLL2bAbG7b89-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-2" value="已加载&amp;amp;&amp;amp;&lt;br&gt;没有广告正在展示&amp;amp;&amp;amp;&lt;br&gt;奖励设置正确&amp;amp;&amp;amp;&lt;br&gt;advert-check校验成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="23.75" y="123" width="202.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-5" value="&lt;font color=&quot;#0000ff&quot;&gt;埋点上报ad_show_view&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;业务上报advert-detail-show&lt;/font&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="42.56" y="300" width="164.87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-93" value="&lt;font color=&quot;#000000&quot;&gt;是否需要朗读&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#00CC00;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="61.24" y="403" width="127.5" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#00CC00;" edge="1" parent="77e6c97f196da883-2" source="tChkTuHsVLL2bAbG7b89-5" target="tChkTuHsVLL2bAbG7b89-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tChkTuHsVLL2bAbG7b89-2" target="tChkTuHsVLL2bAbG7b89-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-816" y="1117.3810221354165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-7" value="&lt;font color=&quot;#00cc00&quot;&gt;媒体回调onAdError&lt;/font&gt;&lt;br&gt;错误信息上报device/error" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1006" y="677" width="147.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-46" value="朗读流程" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-399" y="27" width="720" height="513" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-53" value="语音红包来了页" style="swimlane;html=1;startSize=20;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-46">
+          <mxGeometry y="20" width="260" height="493" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-53" source="tChkTuHsVLL2bAbG7b89-55" target="tChkTuHsVLL2bAbG7b89-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-55" value="android系统回调UI类onCreate 方法&lt;br&gt;表示界面开始展示" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-53">
+          <mxGeometry x="60" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-53" source="tChkTuHsVLL2bAbG7b89-57" target="tChkTuHsVLL2bAbG7b89-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-57" value="&lt;font color=&quot;#00cc00&quot;&gt;媒体回调onAdShow&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#0000cc&quot;&gt;埋点上ad_enter_animation_page_view&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-53">
+          <mxGeometry x="30" y="150" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tChkTuHsVLL2bAbG7b89-53" source="tChkTuHsVLL2bAbG7b89-59" target="tChkTuHsVLL2bAbG7b89-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-59" value="播音+动画完成" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-53">
+          <mxGeometry x="68.75" y="253" width="132.5" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-60" value="系统方法跳转(startActivity)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-53">
+          <mxGeometry x="60" y="344" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-61" value="播音页" style="swimlane;html=1;startSize=20;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-46">
+          <mxGeometry x="260" y="20" width="230" height="493" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-61" source="tChkTuHsVLL2bAbG7b89-63" target="tChkTuHsVLL2bAbG7b89-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-63" value="android系统回调UI类onCreate 方法&lt;br&gt;表示界面开始展示" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-61">
+          <mxGeometry x="40" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-61" source="tChkTuHsVLL2bAbG7b89-65" target="tChkTuHsVLL2bAbG7b89-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-65" value="&lt;font color=&quot;#0000cc&quot;&gt;埋点上报ad_show_success_view&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#0000cc&quot;&gt;埋点上报introduce_page_view&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;业务上报introduce-view-report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-61">
+          <mxGeometry x="25" y="150" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-61" source="tChkTuHsVLL2bAbG7b89-67" target="tChkTuHsVLL2bAbG7b89-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-67" value="播音完成" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-61">
+          <mxGeometry x="45" y="243" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-68" value="系统方法跳转(startActivity)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-61">
+          <mxGeometry x="40" y="344" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-121" value="朗读页" style="swimlane;html=1;startSize=20;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-46">
+          <mxGeometry x="490" y="20" width="230" height="493" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-121" source="tChkTuHsVLL2bAbG7b89-123" target="tChkTuHsVLL2bAbG7b89-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-123" value="android系统回调UI类onCreate 方法&lt;br&gt;表示界面开始展示" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-121">
+          <mxGeometry x="42.5" y="33" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-121" source="tChkTuHsVLL2bAbG7b89-125" target="tChkTuHsVLL2bAbG7b89-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-125" value="&lt;font color=&quot;#0000cc&quot;&gt;埋点上报new_reading_page_view&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;业务上报reading-page-view-report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-121">
+          <mxGeometry x="25" y="150" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-121" source="tChkTuHsVLL2bAbG7b89-127" target="tChkTuHsVLL2bAbG7b89-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-127" value="朗读完成" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-121">
+          <mxGeometry x="48" y="243" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-128" value="系统方法跳转(startActivity)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-121">
+          <mxGeometry x="42" y="343" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="tChkTuHsVLL2bAbG7b89-46" source="tChkTuHsVLL2bAbG7b89-60" target="tChkTuHsVLL2bAbG7b89-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="tChkTuHsVLL2bAbG7b89-46" source="tChkTuHsVLL2bAbG7b89-68" target="tChkTuHsVLL2bAbG7b89-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-81" value="落地页" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="425" y="350" width="245" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-81" source="tChkTuHsVLL2bAbG7b89-83" target="tChkTuHsVLL2bAbG7b89-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-83" value="android系统回调UI类onCreate 方法&lt;br&gt;表示界面开始展示" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry x="45" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-81" source="tChkTuHsVLL2bAbG7b89-85" target="tChkTuHsVLL2bAbG7b89-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-85" value="&lt;font color=&quot;#0000ff&quot;&gt;埋点上报landing_page_view&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;业务上报page-view-report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry x="25" y="150" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-81" source="tChkTuHsVLL2bAbG7b89-87" target="tChkTuHsVLL2bAbG7b89-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-87" value="&lt;font color=&quot;#ff0000&quot;&gt;业务上报landing-success&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry x="36.88" y="266" width="166.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-88" value="&lt;font color=&quot;#00cc00&quot;&gt;媒体回调onRewardVerify&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry x="40" y="469" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-89" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-81" source="tChkTuHsVLL2bAbG7b89-90" target="tChkTuHsVLL2bAbG7b89-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-90" value="接口返回" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry x="45" y="338" width="152.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tChkTuHsVLL2bAbG7b89-93" target="tChkTuHsVLL2bAbG7b89-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-104" value="需要" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="tChkTuHsVLL2bAbG7b89-103">
+          <mxGeometry x="0.0561" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-105" value="弹窗页面" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="840" width="240" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-105" source="tChkTuHsVLL2bAbG7b89-107" target="tChkTuHsVLL2bAbG7b89-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-107" value="android系统回调UI类onCreate 方法&lt;br&gt;表示界面开始展示" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-105">
+          <mxGeometry x="45" y="30" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tChkTuHsVLL2bAbG7b89-105" source="tChkTuHsVLL2bAbG7b89-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.00500000000011" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-109" value="&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;媒体回调onAdShow&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#0000cc&quot;&gt;埋点上报ad_show_success_view&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#0000cc&quot;&gt;埋点上experience_ask_page_view&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-105">
+          <mxGeometry x="25" y="150" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-117" value="系统方法跳转(startActivity)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="tChkTuHsVLL2bAbG7b89-105">
+          <mxGeometry x="45" y="270" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-118" value="不需要" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tChkTuHsVLL2bAbG7b89-93" target="tChkTuHsVLL2bAbG7b89-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-691" y="1035" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tChkTuHsVLL2bAbG7b89-117" target="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tChkTuHsVLL2bAbG7b89-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tChkTuHsVLL2bAbG7b89-128" target="tChkTuHsVLL2bAbG7b89-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
